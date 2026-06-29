@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FeedShift</string>
+    <string name="accessibility_service_description">Allow FeedShift to read on-screen text locally for attention-pattern analysis. MVP logs text only and does not upload data.</string>
+</resources>
