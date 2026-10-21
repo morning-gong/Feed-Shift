@@ -259,3 +259,8 @@ flutter build apk --debug
 - 补齐 Prototype / QA / expanded states
 - 完成截图视觉 QA 与 Figma 结构验证
 
+## 维护与贡献
+- 提交问题时请说明复现步骤、预期结果和实际结果；界面问题可附截图。
+- 提交 Pull Request 时请简述改动目的、关联问题，并列出实际运行的检查。
+- GitHub Actions 会在 Pull Request 和推送到 `main` 时运行 `flutter analyze` 与 `flutter test`。
+- 当前自动化测试覆盖有限，CI 通过不代表所有功能都已验证。
